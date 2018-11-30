@@ -1,0 +1,8 @@
+figures/
+results/
+venv/
+*.docx
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
