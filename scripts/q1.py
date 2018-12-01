@@ -57,7 +57,7 @@ def do(res, small, txt, img, formats, rfb, rfb_sm, nipos):
     width, center = barplot_info(nipos_bins)
 
     fig = plt.figure()
-    plt.title('Chart 1: Comparison based on number of employees of the sample with official cultural statistics')
+    plt.title('Distribution of employee count in museums')
     plt.xlabel("Number of employees")
     plt.xlim(0, 2)
     plt.ylabel("Number of museums")

@@ -106,7 +106,7 @@ def do(res, small, txt, img, formats, rfb, rfb_sm):
 
     fig = plt.figure()
     plt.title(
-        'Chart 2: Representation of preferred communication types in museums'
+        'Representation of preferred communication types in museums'
     )
     plt.pie(
         sizes,
